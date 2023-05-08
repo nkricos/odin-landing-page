@@ -1,3 +1,8 @@
+button {
+    color: #F9FAF8;
+    background-color: #3882F6;    
+}
+
 .head_link, .hero_secondary {
     font-size: 18px;
     color: #E5E7EB;
@@ -10,6 +15,15 @@
 
 .hero {
     background-color: #1F2937;
+}
+
+.hero_content {
+    display: flex;
+}
+
+.hero_left {
+    display: flex;
+    flex-direction: column;
 }
 
 .hero_main {
