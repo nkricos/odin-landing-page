@@ -3,6 +3,15 @@ button {
     background-color: #3882F6;    
 }
 
+.footer {
+    display: flex;
+}
+
+.footer-right {
+    display: flex;
+    flex-direction: column;
+}
+
 .head_link, .hero_secondary {
     font-size: 18px;
     color: #E5E7EB;
