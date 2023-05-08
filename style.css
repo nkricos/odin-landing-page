@@ -12,6 +12,11 @@
     background-color: #1F2937;
 }
 
+img {
+    width: 200px;
+    height: auto;
+}
+
 .logo {
     margin-right: auto;
     font-size: 24px;
