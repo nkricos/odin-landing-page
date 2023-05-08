@@ -1,4 +1,4 @@
-.head_link {
+.head_link, .hero_secondary {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -10,6 +10,12 @@
 
 .hero {
     background-color: #1F2937;
+}
+
+.hero_main {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
 }
 
 img {
