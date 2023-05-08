@@ -11,6 +11,7 @@ button {
     display: flex;
     gap: 8px;
     align-items: center;
+    margin: 0 48px;
 }
 
 .hero {
@@ -18,12 +19,21 @@ button {
 }
 
 .hero_content {
+    margin: 0 48px;
     display: flex;
+    justify-content: space-between;
+}
+
+.hero_image {
+
 }
 
 .hero_left {
+    width: 50%;
+    height: auto;
     display: flex;
     flex-direction: column;
+    gap: 8px;
 }
 
 .hero_main {
@@ -33,7 +43,7 @@ button {
 }
 
 img {
-    width: 200px;
+    width: 240px;
     height: auto;
 }
 
