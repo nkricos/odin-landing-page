@@ -74,6 +74,12 @@ img {
     color: #1F2937;
 }
 
+.information_image {
+    width: 200px;
+    height: auto;
+    overflow: hidden;
+}
+
 .information_row {
     display: flex;
 }
