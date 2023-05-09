@@ -85,7 +85,7 @@ button {
     color: #F9FAF8;
 }
 
-img {
+.hero_right img {
     width: 240px;
     height: auto;
 }
@@ -102,9 +102,10 @@ img {
     color: #1F2937;
 }
 
-.information_image {
-    width: 200px;
-    height: auto;
+.info_image {
+    object-fit: cover;
+    width: 150px;
+    height: 150px;
     overflow: hidden;
     border-radius: 25px;
     border: solid #3882F6 2px;
