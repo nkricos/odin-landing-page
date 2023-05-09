@@ -144,7 +144,7 @@ button {
 .quote_box {
     display: flex;
     flex-direction: column;
-    margin: -18px 96px;
+    margin: 18px 96px;
 }
 
 .quote, .quote_attribute {
