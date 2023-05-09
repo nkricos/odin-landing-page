@@ -127,3 +127,13 @@ img {
     font-style: italic;
     color: #1F2937;
 }
+
+.quote_attribute {
+    font-weight: bold;
+    align-self: flex-end;
+    margin-top: 0;
+}
+
+.quote, .quote_attribute {
+    margin: -18px 84px;
+}
