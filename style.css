@@ -11,6 +11,7 @@ button {
 
 .footer {
     display: flex;
+    background-color: #3882F6;
 }
 
 .footer-right {
@@ -67,12 +68,29 @@ img {
     flex-direction: column;
 }
 
+.information_header {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
 .information_row {
     display: flex;
+}
+
+.information_text {
+    
 }
 
 .logo {
     margin-right: auto;
     font-size: 24px;
     color: #F9FAF8;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
 }
