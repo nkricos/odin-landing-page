@@ -13,7 +13,10 @@ body {
 
 button {
     color: #F9FAF8;
-    background-color: #3882F6;    
+    background-color: #3882F6;   
+    font-size: 16px;
+    font-weight: bold; 
+    border-radius: 8px;
 }
 
 .footer {
@@ -24,6 +27,7 @@ button {
     margin-right: 72px;
     margin-left: 72px;
     gap: 16px;
+    border-radius: 8px;
 }
 
 .footer-left {
@@ -95,6 +99,8 @@ img {
     width: 200px;
     height: auto;
     overflow: hidden;
+    border-radius: 25px;
+    border: solid #3882F6 2px;
 }
 
 .information_row {
