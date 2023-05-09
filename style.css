@@ -31,14 +31,10 @@ button {
     border-radius: 8px;
 }
 
-.footer-left {
+.footer_left {
     display: flex;
     flex-direction: column;
-   
-}
-
-.footer-right {
-    
+    color: #E5E7EB;
 }
 
 .head_link, .hero_secondary {
