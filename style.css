@@ -112,7 +112,7 @@ img {
 
 .information_row {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     width: 100%;
     margin: 48px;
 }
@@ -140,6 +140,12 @@ img {
     margin-top: 0;
 }
 
+.quote_box {
+    display: flex;
+    flex-direction: column;
+    margin: -18px 96px;
+}
+
 .quote, .quote_attribute {
-    margin: -18px 84px;
+    
 }
