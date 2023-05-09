@@ -20,18 +20,19 @@ button {
     border-radius: 8px;
 }
 
-.footer {
+.call {
     display: flex;
     justify-content: center;
     background-color: #3882F6;
-    margin-top: auto;
+    
     margin-right: 72px;
     margin-left: 72px;
     gap: 16px;
     border-radius: 8px;
+    padding: 16px;
 }
 
-.footer_left {
+.call_left {
     display: flex;
     flex-direction: column;
     color: #E5E7EB;
