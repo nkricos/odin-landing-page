@@ -38,6 +38,13 @@ button {
     color: #E5E7EB;
 }
 
+.footer {
+    margin-top: auto;
+    color: #E5E7EB;
+    background-color: #1F2937;
+    text-align: center;
+}
+
 .head_link, .hero_secondary {
     font-size: 18px;
     color: #E5E7EB;
