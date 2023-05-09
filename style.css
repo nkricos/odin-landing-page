@@ -9,6 +9,7 @@ body {
     flex-direction: column;
     align-items: center;
     margin: 72px;
+    gap: 24px;
 }
 
 button {
@@ -87,6 +88,7 @@ img {
 .information_block {
     display: flex;
     flex-direction: column;
+    gap: 8px;
 }
 
 .information_header {
@@ -105,10 +107,12 @@ img {
 
 .information_row {
     display: flex;
+    justify-content: space-between;
+    width: 100%;
 }
 
 .information_text {
-    
+    width: 200px;
 }
 
 .logo {
